@@ -1,0 +1,9 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\bin\Debug\Lab02-JokeandPunchline.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\bin\Debug\Lab02-JokeandPunchline.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\bin\Debug\Lab02-JokeandPunchline.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02_JokeandPunchline.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02_JokeandPunchline.Properties.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-JokeandPunchline\Lab02-JokeandPunchline\obj\Debug\Lab02-JokeandPunchline.pdb

@@ -1,1 +1,9 @@
 C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\bin\Debug\Lab02-ClickableNumbers.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\bin\Debug\Lab02-ClickableNumbers.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\bin\Debug\Lab02-ClickableNumbers.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\obj\Debug\Lab02-ClickableNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\obj\Debug\Lab02_ClickableNumbers.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\obj\Debug\Lab02_ClickableNumbers.Properties.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\obj\Debug\Lab02-ClickableNumbers.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\obj\Debug\Lab02-ClickableNumbers.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab02-ClickableNumbers\Lab02-ClickableNumbers\obj\Debug\Lab02-ClickableNumbers.pdb
