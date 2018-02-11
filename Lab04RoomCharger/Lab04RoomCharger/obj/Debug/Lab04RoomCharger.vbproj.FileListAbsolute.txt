@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\bin\Debug\Lab04RoomCharger.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\bin\Debug\Lab04RoomCharger.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\bin\Debug\Lab04RoomCharger.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\bin\Debug\Lab04RoomCharger.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\obj\Debug\Lab04RoomCharger.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\obj\Debug\Lab04RoomCharger.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\obj\Debug\Lab04RoomCharger.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\obj\Debug\Lab04RoomCharger.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\obj\Debug\Lab04RoomCharger.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\obj\Debug\Lab04RoomCharger.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04RoomCharger\Lab04RoomCharger\obj\Debug\Lab04RoomCharger.pdb
