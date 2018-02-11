@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\bin\Debug\Lab04StadiumSeating.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\bin\Debug\Lab04StadiumSeating.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\bin\Debug\Lab04StadiumSeating.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\bin\Debug\Lab04StadiumSeating.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\obj\Debug\Lab04StadiumSeating.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\obj\Debug\Lab04StadiumSeating.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\obj\Debug\Lab04StadiumSeating.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\obj\Debug\Lab04StadiumSeating.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\obj\Debug\Lab04StadiumSeating.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\obj\Debug\Lab04StadiumSeating.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab04StadiumSeating\Lab04StadiumSeating\obj\Debug\Lab04StadiumSeating.pdb
