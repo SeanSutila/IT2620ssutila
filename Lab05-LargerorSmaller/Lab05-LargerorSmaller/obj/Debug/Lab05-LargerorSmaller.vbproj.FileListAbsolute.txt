@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\bin\Debug\Lab05-LargerorSmaller.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\bin\Debug\Lab05-LargerorSmaller.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\bin\Debug\Lab05-LargerorSmaller.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\bin\Debug\Lab05-LargerorSmaller.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\obj\Debug\Lab05-LargerorSmaller.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\obj\Debug\Lab05_LargerorSmaller.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\obj\Debug\Lab05_LargerorSmaller.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\obj\Debug\Lab05-LargerorSmaller.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\obj\Debug\Lab05-LargerorSmaller.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\obj\Debug\Lab05-LargerorSmaller.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab05-LargerorSmaller\Lab05-LargerorSmaller\obj\Debug\Lab05-LargerorSmaller.pdb
