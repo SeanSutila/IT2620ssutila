@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\bin\Debug\Lab06-SumNumbers.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\bin\Debug\Lab06-SumNumbers.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\bin\Debug\Lab06-SumNumbers.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\bin\Debug\Lab06-SumNumbers.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\obj\Debug\Lab06-SumNumbers.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\obj\Debug\Lab06_SumNumbers.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\obj\Debug\Lab06_SumNumbers.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\obj\Debug\Lab06-SumNumbers.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\obj\Debug\Lab06-SumNumbers.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\obj\Debug\Lab06-SumNumbers.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-SumNumbers\Lab06-SumNumbers\obj\Debug\Lab06-SumNumbers.pdb
