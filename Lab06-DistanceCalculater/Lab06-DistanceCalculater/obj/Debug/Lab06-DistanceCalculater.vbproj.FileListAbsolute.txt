@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\bin\Debug\Lab06-DistanceCalculater.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\bin\Debug\Lab06-DistanceCalculater.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\bin\Debug\Lab06-DistanceCalculater.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\bin\Debug\Lab06-DistanceCalculater.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\obj\Debug\Lab06-DistanceCalculater.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\obj\Debug\Lab06_DistanceCalculater.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\obj\Debug\Lab06_DistanceCalculater.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\obj\Debug\Lab06-DistanceCalculater.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\obj\Debug\Lab06-DistanceCalculater.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\obj\Debug\Lab06-DistanceCalculater.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab06-DistanceCalculater\Lab06-DistanceCalculater\obj\Debug\Lab06-DistanceCalculater.pdb
