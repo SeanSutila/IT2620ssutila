@@ -1,16 +1,14 @@
 ﻿Public Class Form1
+
+    Dim dblCost As Double
+    Dim dblMarkup As Double
+    Dim dblPrice As Double
+
     Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
-        Dim dblCost As Double
-        Dim dblMarkup As Double
-        Dim dblPrice As Double
 
-    Private Function CalculateRetail() As String
-        Return decCost + (decCost * (dblMarkup / 100))
-    End Function
-
-    If CheckPosNum(txtCost.Text) && CheckPosNum(txtMarkup.Text) Then
-            dblcost = Dtype(txtCost.text)
-            dblMarkup = Dtype(txtMarkUp.text)
+        If CheckPosNum(txtCost.Text) And CheckPosNum(txtMarkup.Text) Then
+            dblCost = CDbl(txtCost.Text)
+            dblMarkup = CDbl(txtMarkup.Text)
             dblPrice = CalculateRetail()
             lblRetailPrice.Text = dblPrice.ToString("C2")
         End If
@@ -33,4 +31,9 @@
             Return True
         End If
     End Function
+
+    Public Function CalculateRetail() As Double
+        Return dblCost + (dblCost * (dblMarkup / 100))
+    End Function
+
 End Class
