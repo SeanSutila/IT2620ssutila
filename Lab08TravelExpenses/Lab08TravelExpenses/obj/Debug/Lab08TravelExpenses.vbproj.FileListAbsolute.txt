@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\bin\Debug\Lab08TravelExpenses.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\bin\Debug\Lab08TravelExpenses.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\bin\Debug\Lab08TravelExpenses.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\bin\Debug\Lab08TravelExpenses.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\obj\Debug\Lab08TravelExpenses.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\obj\Debug\Lab08TravelExpenses.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\obj\Debug\Lab08TravelExpenses.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\obj\Debug\Lab08TravelExpenses.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\obj\Debug\Lab08TravelExpenses.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\obj\Debug\Lab08TravelExpenses.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab08TravelExpenses\Lab08TravelExpenses\obj\Debug\Lab08TravelExpenses.pdb
