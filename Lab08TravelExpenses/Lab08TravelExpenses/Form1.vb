@@ -79,6 +79,7 @@
         Decimal.TryParse(txtMeals.Text, decMealReimburse)
         If decMealReimburse > (intDays * 37) Then
             decMealReimburse = intDays * 37
+            MessageBox.Show("meal")
         End If
         Return decMealReimburse
     End Function

@@ -1,0 +1,12 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\bin\Debug\Lab09_ConfReg.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\bin\Debug\Lab09_ConfReg.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\bin\Debug\Lab09_ConfReg.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\bin\Debug\Lab09_ConfReg.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.ConferenceOptions.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.MainForm.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab09_ConfReg\Lab09_ConfReg\obj\Debug\Lab09_ConfReg.pdb
