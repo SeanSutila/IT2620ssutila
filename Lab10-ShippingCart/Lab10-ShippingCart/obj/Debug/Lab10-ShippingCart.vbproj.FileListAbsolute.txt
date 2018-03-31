@@ -1,0 +1,13 @@
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\bin\Debug\Lab10-ShippingCart.exe.config
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10-ShippingCart.vbprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10_ShippingCart.Form1.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10_ShippingCart.frmAudioBook.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10_ShippingCart.frmPrintBooks.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10_ShippingCart.Resources.resources
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10-ShippingCart.vbproj.GenerateResource.Cache
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\bin\Debug\Lab10-ShippingCart.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\bin\Debug\Lab10-ShippingCart.pdb
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\bin\Debug\Lab10-ShippingCart.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10-ShippingCart.exe
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10-ShippingCart.xml
+C:\Users\Sean\Documents\GitHub\IT2620ssutila\Lab10-ShippingCart\Lab10-ShippingCart\obj\Debug\Lab10-ShippingCart.pdb
