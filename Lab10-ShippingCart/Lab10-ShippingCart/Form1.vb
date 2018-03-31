@@ -29,6 +29,6 @@
     End Sub
 
     Private Sub AboutToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutToolStripMenuItem.Click
-
+        MessageBox.Show("I don't really Know what to put here")
     End Sub
 End Class
